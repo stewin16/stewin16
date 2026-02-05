@@ -110,7 +110,7 @@
 ## 🫶 find me here
 
 - 🐙 github.com/stewin16  
-- 📬 stewin.mathias@gmail.com  
+- 📬 mathiasstewinn@gmail.com  
 
 ---
 

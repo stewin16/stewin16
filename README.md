@@ -1,139 +1,100 @@
 <div align="center">
 
-# 👋 Hey, I'm **Stewin Mathias**
+# Yo, I’m Stewin 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=22&center=true&vCenter=true&width=700&lines=AI+Developer;Building+Intelligent+Systems;BTech+Computer+Engineering;Frontend+%7C+ML+%7C+IoT" />
+<img src="https://readme-typing-svg.herokuapp.com?color=16A34A&size=22&center=true&vCenter=true&width=720&lines=I+build+stuff+and+break+stuff.;AI+%7C+Web+%7C+Automation;Works+on+my+machine+%E2%9C%85" />
 
 </div>
 
 ---
 
-## 🌿 About Me
+## 🧃 About Me
+
+Just a Computer Engineering student trying to convert:  
+💡 ideas → 🧠 models → 💻 apps → 🚀 hopefully something useful
+
+- 🤖 obsessed with AI that actually helps  
+- 🎨 frontend enjoyer, backend survivor  
+- 🐛 professional bug creator  
+- ☕ runs on coffee and StackOverflow  
+- 🎯 looking for internships where I can touch real code
+
+---
+
+## 🧰 My Toolbox
+
+- 🐍 Python • ☕ Java • 🅒 C • 💛 JavaScript  
+- ⚛ React • 🌐 HTML • 🎨 CSS  
+- 🧠 ML • NLP • Computer Vision  
+- 🛠 Git • VS Code • Figma  
+
+> “I don’t always write clean code, but when I do… it’s by accident.”
+
+---
+
+## 🛠 Stuff I Built (a.k.a. my origin story)
+
+### 📁 AI File Manager  
+Because my Downloads folder looked like a crime scene  
+- understands files instead of random names  
+- natural language search  
+- duplicate hunter  
+- saved me from 4,821 “final_final2.pdf”
+
+---
+
+### ⚖️ LegalAI  
+Turning legal English into human English  
+- summarizes scary PDFs  
+- pulls key clauses  
+- QnA from documents  
+- built so my brain doesn’t melt
+
+---
+
+### 🐟 AquaVision  
+AI + fish = emotional damage  
+- fish species recognition  
+- image predictions  
+- real dataset pain  
+- taught me ML = 20% code, 80% crying
+
+---
+
+### 🌐 Portfolio  
+My corner of the internet  
+- clean design  
+- project stories  
+- zero lorem ipsum crimes
+
+---
+
+## 📊 GitHub Mood Board
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+![stats](https://github-readme-stats.vercel.app/api?username=stewin16&show_icons=true&theme=vue)
 
-### 💡 Who Am I?
-
-- 🎓 BTech Computer Engineering Student  
-- 🤖 AI & Automation Enthusiast  
-- 🌐 Frontend Developer  
-- 🚀 Problem Solver  
-- 🤝 Open to Internships  
-
-</td>
-
-<td>
-
-### 🎯 Focus Areas
-
-- Machine Learning  
-- Intelligent Systems  
-- Web Applications  
-- IoT Solutions  
-- Scalable Design  
-
-</td>
-</tr>
-</table>
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=stewin16&theme=vue)
 
 </div>
 
 ---
 
-## 🧩 Tech Stack
+## 🌱 Current Side Quests
 
-<div align="center">
-
-| Category | Technologies |
-|--------|--------------|
-| Languages | Python • Java • C • JavaScript |
-| Web | React • HTML • CSS |
-| Tools | Git • VS Code • Figma |
-| AI | ML • NLP • Computer Vision |
-
-</div>
+- escaping tutorial hell  
+- making UIs less ugly  
+- understanding wtf transformers really do  
+- trying not to center div for 3 hours
 
 ---
 
-## ✨ Project Showcase
+## 🤝 Slide into my inbox
 
-### 🟩 AI File Manager
-> Smart AI powered file organizer
-
-🔹 Automatic categorization  
-🔹 NLP based search  
-🔹 Duplicate detection  
-🔹 Productivity automation  
+- 🐙 GitHub: github.com/stewin16  
+- 📬 Mail: stewin.mathias@gmail.com  
 
 ---
 
-### ⚖️ LegalAI
-> AI assistant for legal domain
-
-🔹 Document analysis  
-🔹 Case summarization  
-🔹 Insight generation  
-🔹 Text understanding  
-
----
-
-### 🐟 AquaVision – AI/ML
-> Aquatic monitoring system
-
-🔹 Fish recognition  
-🔹 Water insights  
-🔹 Image predictions  
-🔹 ML pipeline  
-
----
-
-### 🌐 Portfolio
-> Personal developer website
-
-🔹 Modern UI  
-🔹 Project showcase  
-🔹 Contact system  
-
----
-
-## 📊 Stats Zone
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=stewin16&show_icons=true&theme=vue)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=stewin16&theme=vue)
-
-</div>
-
----
-
-## 🌱 Learning Journey
-
-- Deep Learning  
-- React Ecosystem  
-- System Design  
-- Open Source  
-
----
-
-## 💚 Let’s Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-22C55E?style=for-the-badge)](https://github.com/stewin16)
-[![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge)](mailto:stewin.mathias@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### “Building systems that think a little smarter.”
-
-</div>
+> 💬 “It works on my machine™”

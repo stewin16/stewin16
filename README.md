@@ -1,101 +1,121 @@
 <div align="center">
 
-# Yo, I’m Stewin 👋
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:22c55e,100:0ea5e9&height=180&section=header&text=Stewin%20Mathias&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?color=16A34A&size=22&center=true&vCenter=true&width=720&lines=I+build+stuff+and+break+stuff.;AI+%7C+Web+%7C+Automation;Works+on+my+machine+%E2%9C%85" />
+<img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=22&center=true&vCenter=true&width=760&lines=I+build+cool+stuff+with+AI;Glassmorphism+Enjoyer;Works+on+my+machine+%E2%9C%85" />
 
 </div>
 
 ---
 
-## 🧃 About Me
+## ✨ vibe.check()
 
-Just a Computer Engineering student trying to do:
+> Computer Engineering student turning coffee → code → bugs → character development
 
-idea 💡 → code 💻 → bug 🐛 → stackoverflow 🤡 → fixed 🚀
-
-- 🤖 into AI that actually does something  
+- 🤖 AI + automation nerd  
 - 🎨 frontend enjoyer, backend survivor  
-- ☕ powered by coffee and “one more video”  
-- 🧪 professional experiment destroyer  
-- 🎯 looking for internships where I can touch real code
-
-> “I don’t always test my code, but when I do, it’s in production.”
+- 🧃 casual builder of serious things  
+- 🚀 looking for internships where I can break production
 
 ---
 
-## 🧰 My Toolbox
-
-- 🐍 Python • ☕ Java • 🅒 C • 💛 JavaScript  
-- ⚛ React • 🌐 HTML • 🎨 CSS  
-- 🧠 ML • NLP • Computer Vision  
-- 🛠 Git • VS Code • Figma  
-
----
-
-## 🛠 Stuff I Built (a.k.a character development)
-
-### 📁 AI File Manager  
-Because my Downloads folder looked illegal  
-- understands files instead of random names  
-- natural language search  
-- duplicate hunter  
-- saved me from 900 “final_final_REAL.pdf”
-
----
-
-### ⚖️ LegalAI  
-Turning lawyer language into human DLC  
-- summarizes scary PDFs  
-- pulls key clauses  
-- QnA from documents  
-- built so my brain doesn’t bluescreen
-
----
-
-### 🐟 AquaVision  
-AI + fish = emotional damage  
-- fish species recognition  
-- image predictions  
-- real dataset suffering  
-- learned ML = 20% code, 80% “why tho”
-
----
-
-### 🌐 Portfolio  
-My tiny house on the internet  
-- clean design  
-- project stories  
-- zero lorem ipsum crimes
-
----
-
-## 📊 GitHub Mood Board
+## 🧊 3D Glass Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stewin16&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stewin16&theme=radical" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,react,html,css,git,vscode,figma" />
 
 </div>
 
 ---
 
-## 🌱 Current Side Quests
+## 🪟 Project Cards
+
+<table>
+<tr>
+<td width="50%">
+
+### 📁 AI File Manager
+> because my downloads folder was a war crime
+
+- smart categorization  
+- NLP search  
+- duplicate hunter  
+- actually useful IRL  
+
+</td>
+
+<td width="50%">
+
+### ⚖️ LegalAI  
+> lawyer language → human language
+
+- PDF summaries  
+- clause extraction  
+- document QnA  
+- brain saver  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐟 AquaVision  
+> AI looked at fish, fish looked back
+
+- species recognition  
+- image predictions  
+- dataset pain  
+- ML character arc  
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio  
+> my tiny internet apartment
+
+- clean UI  
+- project stories  
+- no lorem ipsum crimes  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 GitHub in 3D
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=stewin16&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stewin16&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🌱 side quests
 
 - escaping tutorial hell  
 - making UIs less ugly than my handwriting  
-- understanding wtf transformers actually do  
-- centering div without crying
+- understanding transformers without crying  
+- centering div (impossible boss)
 
 ---
 
-## 🤝 Slide into my inbox
+## 🫶 find me here
 
-- 🐙 GitHub: github.com/stewin16  
-- 📬 Mail: stewin.mathias@gmail.com  
+- 🐙 github.com/stewin16  
+- 📬 stewin.mathias@gmail.com  
 
 ---
 
-> 💬 “It worked yesterday, I swear.”
+<div align="center">
+
+### “it worked yesterday, I swear.”
+
+</div>

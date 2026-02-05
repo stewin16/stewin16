@@ -10,14 +10,17 @@
 
 ## 🧃 About Me
 
-Just a Computer Engineering student trying to convert:  
-💡 ideas → 🧠 models → 💻 apps → 🚀 hopefully something useful
+Just a Computer Engineering student trying to do:
 
-- 🤖 obsessed with AI that actually helps  
+idea 💡 → code 💻 → bug 🐛 → stackoverflow 🤡 → fixed 🚀
+
+- 🤖 into AI that actually does something  
 - 🎨 frontend enjoyer, backend survivor  
-- 🐛 professional bug creator  
-- ☕ runs on coffee and StackOverflow  
+- ☕ powered by coffee and “one more video”  
+- 🧪 professional experiment destroyer  
 - 🎯 looking for internships where I can touch real code
+
+> “I don’t always test my code, but when I do, it’s in production.”
 
 ---
 
@@ -28,27 +31,25 @@ Just a Computer Engineering student trying to convert:
 - 🧠 ML • NLP • Computer Vision  
 - 🛠 Git • VS Code • Figma  
 
-> “I don’t always write clean code, but when I do… it’s by accident.”
-
 ---
 
-## 🛠 Stuff I Built (a.k.a. my origin story)
+## 🛠 Stuff I Built (a.k.a character development)
 
 ### 📁 AI File Manager  
-Because my Downloads folder looked like a crime scene  
+Because my Downloads folder looked illegal  
 - understands files instead of random names  
 - natural language search  
 - duplicate hunter  
-- saved me from 4,821 “final_final2.pdf”
+- saved me from 900 “final_final_REAL.pdf”
 
 ---
 
 ### ⚖️ LegalAI  
-Turning legal English into human English  
+Turning lawyer language into human DLC  
 - summarizes scary PDFs  
 - pulls key clauses  
 - QnA from documents  
-- built so my brain doesn’t melt
+- built so my brain doesn’t bluescreen
 
 ---
 
@@ -56,13 +57,13 @@ Turning legal English into human English
 AI + fish = emotional damage  
 - fish species recognition  
 - image predictions  
-- real dataset pain  
-- taught me ML = 20% code, 80% crying
+- real dataset suffering  
+- learned ML = 20% code, 80% “why tho”
 
 ---
 
 ### 🌐 Portfolio  
-My corner of the internet  
+My tiny house on the internet  
 - clean design  
 - project stories  
 - zero lorem ipsum crimes
@@ -73,9 +74,9 @@ My corner of the internet
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=stewin16&show_icons=true&theme=vue)
+<img src="https://github-readme-stats.vercel.app/api?username=stewin16&show_icons=true&theme=radical" />
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=stewin16&theme=vue)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stewin16&theme=radical" />
 
 </div>
 
@@ -84,9 +85,9 @@ My corner of the internet
 ## 🌱 Current Side Quests
 
 - escaping tutorial hell  
-- making UIs less ugly  
-- understanding wtf transformers really do  
-- trying not to center div for 3 hours
+- making UIs less ugly than my handwriting  
+- understanding wtf transformers actually do  
+- centering div without crying
 
 ---
 
@@ -97,4 +98,4 @@ My corner of the internet
 
 ---
 
-> 💬 “It works on my machine™”
+> 💬 “It worked yesterday, I swear.”

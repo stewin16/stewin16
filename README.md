@@ -1,84 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:22c55e,100:0ea5e9&height=180&section=header&text=Stewin%20Mathias&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:0EA5E9&height=190&section=header&text=Stewin%20Mathias&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=22&center=true&vCenter=true&width=760&lines=I+build+cool+stuff+with+AI;Glassmorphism+Enjoyer;Works+on+my+machine+%E2%9C%85" />
-
-</div>
-
----
-
-## ✨ vibe.check()
-
-> Computer Engineering student turning coffee → code → bugs → character development
-
-- 🤖 AI + automation nerd  
-- 🎨 frontend enjoyer, backend survivor  
-- 🧃 casual builder of serious things  
-- 🚀 looking for internships where I can break production
-
----
-
-## 🧊 3D Glass Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,react,html,css,git,vscode,figma" />
+<img src="https://readme-typing-svg.herokuapp.com?color=16A34A&size=22&center=true&vCenter=true&width=780&lines=I+build+things+that+should+exist.;AI+%7C+Web+%7C+Automation;Less+talk.+More+projects.;Works+on+my+machine+%E2%9C%85" />
 
 </div>
 
 ---
 
-## 🪟 Project Cards
+## 👋 About Me
+
+I’m a Computer Engineering student who likes turning messy problems into clean, useful tools.  
+Not chasing buzzwords — just building things people can actually use.
+
+- 🤖 AI that helps real humans  
+- 🎨 interfaces that feel calm  
+- 🧪 break → fix → learn → repeat  
+- ☕ coffee in → code out  
+- 🚀 open to internships where I can ship real work
+
+> “I don’t chase tech stacks. I chase problems.”
+
+---
+
+## 🧩 Toolbox
+
+**Languages:** Python · Java · C · JavaScript  
+**Web:** React · HTML · CSS  
+**AI:** ML · NLP · Computer Vision  
+**Tools:** Git · VS Code · Figma  
+
+---
+
+## 🪟 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📁 AI File Manager
-> because my downloads folder was a war crime
+### 📁 AI File Manager  
+**Because my downloads folder was a disaster**
 
-- smart categorization  
-- NLP search  
-- duplicate hunter  
-- actually useful IRL  
+- smart file categorization  
+- natural language search  
+- duplicate detection  
+- built to save real time
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚖️ LegalAI  
-> lawyer language → human language
+**Legal English → Human English**
 
-- PDF summaries  
+- PDF summarization  
 - clause extraction  
 - document QnA  
-- brain saver  
+- made for non-lawyers
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🐟 AquaVision  
-> AI looked at fish, fish looked back
+**AI meets aquatic life**
 
-- species recognition  
+- fish species recognition  
 - image predictions  
-- dataset pain  
-- ML character arc  
+- real dataset challenges  
+- learning ML the hard way
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Portfolio  
-> my tiny internet apartment
+**My digital space**
 
-- clean UI  
+- minimal design  
 - project stories  
-- no lorem ipsum crimes  
+- zero lorem ipsum crimes
 
 </td>
 </tr>
@@ -86,36 +89,34 @@
 
 ---
 
-## 🧪 GitHub in 3D
+## 🧭 Dev Personality
+
+- writes code → breaks it → understands it  
+- commits at 2 AM with “small fix”  
+- believes README > fancy framework  
+- professional Googler since birth  
+- centers div without crying (sometimes)
+
+---
+
+## 🌱 Right Now
+
+- going deeper into real ML  
+- building better UIs for AI tools  
+- learning how systems scale  
+- hunting problems worth solving
+
+---
+
+## 🤝 Connect
+
+- 🐙 GitHub: github.com/stewin16  
+- 📬 Mail: stewin.mathias@gmail.com  
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stewin16&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stewin16&theme=tokyonight" />
-
-</div>
-
----
-
-## 🌱 side quests
-
-- escaping tutorial hell  
-- making UIs less ugly than my handwriting  
-- understanding transformers without crying  
-- centering div (impossible boss)
-
----
-
-## 🫶 find me here
-
-- 🐙 github.com/stewin16  
-- 📬 mathiasstewinn@gmail.com  
-
----
-
-<div align="center">
-
-### “it worked yesterday, I swear.”
+### “build small. ship often. panic rarely.”
 
 </div>
